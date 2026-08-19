@@ -56,10 +56,10 @@ Donde `ρ_aire` es la densidad del aire, `Cd` el coeficiente de arrastre, `A` el
 ##  Autores
  
 Proyecto desarrollado como trabajo personal y universitario en el marco de un curso de Ingeniería de Sistemas.
-Daniel Castañeda Londoño
-Juan Pablo Osorio Galvis
-Juan Esteban Cardona Marin
-Juan Davud Zuñiga Zuñiga
+- Daniel Castañeda Londoño
+- Juan Pablo Osorio Galvis
+- Juan Esteban Cardona Marin
+- Juan Davud Zuñiga Zuñiga
  
 ## ⚠️ Uso y derechos
  
