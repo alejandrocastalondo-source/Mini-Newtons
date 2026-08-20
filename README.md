@@ -4,7 +4,7 @@
  
 ##  Motivación
  
-El proyecto nace con la idea de que aprender física no tiene que ser intimidante. En lugar de fórmulas frías en una pizarra, Mini Newtons convierte la Segunda Ley de Newton y la resistencia del aire en un "laboratorio de juguete" donde el usuario puede tocar, cambiar y ver el resultado inmediatamente.
+El proyecto nace con la idea de que aprender física no tiene que ser intimidante. En lugar de fórmulas frías en una pizarra, Mini Newtons convierte la Segunda Ley de Newton y la resistencia del aire en un "laboratorio de juguete" donde el usuario puede tocar, cambiar y ver el resultado inmediatamente. Desarrollado en el semestre 2025-2.
  
 ##  Vista previa
 
@@ -55,7 +55,7 @@ Donde `ρ_aire` es la densidad del aire, `Cd` el coeficiente de arrastre, `A` el
  
 ##  Autores
  
-Proyecto desarrollado como trabajo personal y universitario en el marco de un curso de Ingeniería de Sistemas a finales del año 2025.
+Proyecto desarrollado como trabajo personal y universitario en el marco de un curso de Ingeniería de Sistemas.
 - Daniel Castañeda Londoño
 - Juan Pablo Osorio Galvis
 - Juan Esteban Cardona Marin    https://github.com/juancardona16-art 
