@@ -58,7 +58,7 @@ Donde `ρ_aire` es la densidad del aire, `Cd` el coeficiente de arrastre, `A` el
 Proyecto desarrollado como trabajo personal y universitario en el marco de un curso de Ingeniería de Sistemas a finales del año 2025.
 - Daniel Castañeda Londoño
 - Juan Pablo Osorio Galvis
-- Juan Esteban Cardona Marin  <a href="https://github.com/juancardona16-art"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+- Juan Esteban Cardona Marin    https://github.com/juancardona16-art 
 - Juan David Zuñiga Zuñiga
  
 ## ⚠️ Uso y derechos
