@@ -51,6 +51,34 @@ Donde `ρ_aire` es la densidad del aire, `Cd` el coeficiente de arrastre, `A` el
  
 - JDK 17 o superior (no se usan librerías externas, solo la biblioteca estándar de Java)
 
+- ##  Cómo ejecutar el proyecto
+ 
+1. Clona el repositorio:
+```bash
+   git clone https://github.com/tu-usuario/mini-newtons.git
+```
+2. Abre la carpeta del proyecto en IntelliJ IDEA (`File > Open`).
+3. Verifica que el Project SDK esté configurado (`File > Project Structure > Project SDK`).
+4. Ejecuta la clase `Main.java` ubicada en `src/simulador/Main.java`.
+##  Estructura del proyecto
+ 
+```
+MIN-TGS/
+└── src/
+    └── simulador/
+        ├── Main.java              # Punto de entrada de la aplicación
+        ├── MenuPrincipal.java     # Menú principal de navegación
+        ├── MarcoSimulador.java    # Ventana principal de la simulación
+        ├── PanelControles.java    # Panel de controles (masa, gravedad, radio, etc.)
+        ├── PanelGrafico.java      # Panel de animación de la caída
+        ├── PanelAceleracion.java # Panel de datos de aceleración
+        ├── Esfera.java            # Modelo físico de la esfera (cálculos de caída)
+        ├── VentanaFormulas.java   # Ventana explicativa de fórmulas físicas
+        ├── VentanaGrafica.java    # Ventana de gráficas comparativas
+        ├── VentanaEcoCaida.java   # Ventana del modo Eco-Caída Libre
+        └── PanelEcoCaida.java     # Lógica del modo Eco-Caída Libre
+```
+
 
  
 ##  Autores
