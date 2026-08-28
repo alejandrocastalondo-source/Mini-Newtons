@@ -51,11 +51,11 @@ Donde `ρ_aire` es la densidad del aire, `Cd` el coeficiente de arrastre, `A` el
  
 - JDK 17 o superior (no se usan librerías externas, solo la biblioteca estándar de Java)
 
-- ##  Cómo ejecutar el proyecto
+ ##  Cómo ejecutar el proyecto
  
 1. Clona el repositorio:
 ```bash
-   git clone https://github.com/tu-usuario/mini-newtons.git
+   git clone https://github.com/alejandrocastalondo-source/Mini-Newtons.git
 ```
 2. Abre la carpeta del proyecto en IntelliJ IDEA (`File > Open`).
 3. Verifica que el Project SDK esté configurado (`File > Project Structure > Project SDK`).
