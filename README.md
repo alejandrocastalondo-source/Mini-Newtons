@@ -84,10 +84,10 @@ MIN-TGS/
 ##  Autores
  
 Proyecto desarrollado como trabajo personal y universitario en el marco de un curso de Ingeniería de Sistemas.
-- Daniel Castañeda Londoño
+- Daniel Castañeda Londoño https://github.com/alejandrocastalondo-source
 - Juan Pablo Osorio Galvis
 - Juan Esteban Cardona Marin    https://github.com/juancardona16-art 
-- Juan David Zuñiga Zuñiga
+- Juan David Zuñiga Zuñiga https://github.com/JDZZ000
  
 ## ⚠️ Uso y derechos
  
